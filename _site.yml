@@ -1,4 +1,7 @@
 ---
 name: "Jay Lee"
+navbar:
+  title: "HOME"
+output_dir: "."
 output: html_document
 ---
